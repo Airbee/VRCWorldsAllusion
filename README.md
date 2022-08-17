@@ -10,7 +10,7 @@ This is how it looks for me:
 
 ## How to use
 * Download the latest release from here: https://github.com/AirpacaSan/VRCWorldsAllusion/releases
-* Download and install Allusion (https://allusion-app.github.io/)
+* Download and install Allusion from here: https://allusion-app.github.io/
 
 ### In Allusion
 * Add the folder as a location (top left corner)
