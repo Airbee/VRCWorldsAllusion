@@ -17,7 +17,7 @@ This is how it looks for me:
 * Go to settings (top right corner) > Import/Export > "Import tags from file metadata"
 
 I recommend using the "Vertical Masonry" Grid option
-The imported tags are not sorted and don't have color. Here is how i have them sorted/colored:
+The imported tags are not sorted and don't have color. Here is how i have them sorted/colored:  
 ![image](https://user-images.githubusercontent.com/111447274/185180406-5f04d245-5610-46b0-a225-6bfb2f750ee2.png)
 
 
