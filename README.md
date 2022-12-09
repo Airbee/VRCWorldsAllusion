@@ -9,6 +9,7 @@ This is how it looks for me:
 
 
 ## How to use
+* Video Guide: https://youtu.be/_j_OKMxluCM
 * Download the latest release from here and extract the .zip file: https://github.com/AirpacaSan/VRCWorldsAllusion/releases
 * Download and install Allusion from here: https://allusion-app.github.io/
 
