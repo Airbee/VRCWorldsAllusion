@@ -1,5 +1,5 @@
 # VRCWorldsAllusion
-A collection of currently around 300 VRChat worlds with tags to properly organize them in Allusion.  
+A collection of currently around 700 VRChat worlds with tags to properly organize them in Allusion.  
 All of these worlds were visited by me and found to be worthy to save. Maybe you like them too.  
 Every world/picture has a link to the VRC website of the world in the meta-tag "Creator-URL"  
 
